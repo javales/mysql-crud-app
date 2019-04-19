@@ -1,0 +1,19 @@
+{
+  "name": "mysql-crud-app",
+  "version": "1.0.0",
+  "description": "Mysql Crud App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javales/mysql-crud-app.git"
+  },
+  "author": "JV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javales/mysql-crud-app/issues"
+  },
+  "homepage": "https://github.com/javales/mysql-crud-app#readme"
+}
